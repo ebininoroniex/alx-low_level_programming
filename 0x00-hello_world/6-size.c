@@ -1,7 +1,7 @@
 /*
  * Filename: 6-size.c
- * C program to print various sizes of datatypes 
- * 		compiled and run on computersi
+ * C program to print various sizes of datatypes
+ * compiled and run on computers
  * Author: Ebinino
  *
  * Size of a char: 1 byte
@@ -17,7 +17,6 @@
 #include <stdlib.h>
 /**
  * main - Entry point
- * 
  * Return: Always 0 (Success)
  */
 int main(void)
