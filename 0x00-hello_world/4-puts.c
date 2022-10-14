@@ -1,20 +1,22 @@
-/* C program to print -Programming is like building a multilingual puzzle*/
-#include<stdio.h>
+/*
+ * Filename: 4-puts.c
+ * C program to print -Programming is like building a multilingual puzzle
+ * Author: Ebinino
+ */
+
+#include <stdio.h>
 
 /**
- *Main function to print "Programming is like building a multilingual puzzle
+ * main - Prints "Programming is like building a multilingual puzzle,
+ * followed by a new line.
+ *
+ * Return: Always 0.
  *
  */
 
 int main(void)
-/**
- * The starting point of executing the put function
- */
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	/**
-	 * ends the execution of a function
-	 * and returns control to the calling function
-	 */
-	return (0);
+		puts("\"Programming is like building a multilingual puzzle");
+
+			return (0);
 }
