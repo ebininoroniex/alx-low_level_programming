@@ -23,8 +23,6 @@ if (n > 0)
 		printf("is zero");
 	}
 	else
-		printf("is negative")
-	}
-}
-return (0);
+		printf("is negative");
+		return (0);
 }
