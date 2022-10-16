@@ -12,7 +12,8 @@
 int main(void)
 {
 int hexa;
-char alpha
+char alpha;
+
 for (hexa = 0; hexa < 16; hexa++)
 	putchar((hexa % 16)+ '0');
 for (alpha = 'a'; alpha <= 'f'; alpha++)
