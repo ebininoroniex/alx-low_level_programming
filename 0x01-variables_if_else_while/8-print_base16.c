@@ -15,7 +15,7 @@ int hexa;
 char alpha;
 
 for (hexa = 0; hexa < 10; hexa++)
-	putchar((hexa % 10)+ '0');
+	putchar((hexa % 10) + '0');
 for (alpha = 'a'; alpha <= 'f'; alpha++)
 	putchar(alpha);
 putchar("\n");
