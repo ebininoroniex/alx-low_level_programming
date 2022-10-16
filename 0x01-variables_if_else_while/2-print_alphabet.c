@@ -11,7 +11,9 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
-for (int x = 'A'; x <= 'Z'; x++)
-	putchar(tolower(x));
+char alpha
+for (alpha = 'a' ; alpha <= 'z' ; alpha++)
+	putchar(alpha);
+putchar('\n');
 return (0);
 }
