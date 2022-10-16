@@ -18,6 +18,6 @@ for (hexa = 0; hexa < 10; hexa++)
 	putchar((hexa % 10) + '0');
 for (alpha = 'a'; alpha <= 'f'; alpha++)
 	putchar(alpha);
-putchar("\n");
+putchar('\n');
 return (0);
 }
