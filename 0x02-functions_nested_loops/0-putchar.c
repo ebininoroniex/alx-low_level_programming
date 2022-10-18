@@ -1,6 +1,6 @@
 /*Author:Ebinino*/
 /* program that prints _putchar, followed by a new line*/
-#include "functionsandloops.h"
+#include "main.h"
 #include <unistd.h>
 /**
  * _putchar - writes the character c to stdout
