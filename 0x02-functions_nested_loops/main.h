@@ -1,5 +1,6 @@
 #ifndef MAIN_H_
 #define MAIN_H_
+int print_last_digit(int);
 int _abs(int);
 int print_sign(int n);
 int _isalpha(int c);
