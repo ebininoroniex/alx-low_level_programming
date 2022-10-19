@@ -5,7 +5,7 @@ Functions , Nested Loops
 	alphabet 10 times
 3 - A function that checks for lowercase character.
 4 - A function that checks for alphabetic character. 
-5 - A
+5 - A function that prints the sign of a number.
 6 - A 
 7 - A
 8 - A
