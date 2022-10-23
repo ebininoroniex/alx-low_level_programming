@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdio.h>
 /**
  * main - check the code
  *
@@ -8,8 +8,17 @@
 
 int _isupper(int c)
 {
-	if (c <= 'Z'&& c >= 'A')
-		return (1);
-	else 
-		return (0);
+	int c;
+
+	c = 'A';
+	if (isupper(c))
+		printf("%c: 1",c);
+	else
+		printf("%c: 0",c);
+
+	c = 'a';
+	if (isupper(c))
+		printf("%c: 1",c);
+	else
+	printf("%c: 0",c);
 }
